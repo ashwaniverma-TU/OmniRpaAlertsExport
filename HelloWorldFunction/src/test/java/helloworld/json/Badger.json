@@ -1,0 +1,58 @@
+[
+  {
+    "Campaign": "Badger",
+    "Alert Type": "Insight",
+    "Queue Name": "Insight 1 Sale",
+    "Queue Size": "2020",
+    "Queue Time": "40:20",
+    "Key": "TEST1"
+  },
+  {
+    "Campaign": "Badger",
+    "Alert Type": "Insight",
+    "Queue Name": "Insight moderation Sale",
+    "Queue Size": "2020",
+    "Queue Time": "40:20",
+    "Key": "TEST2"
+  },
+  {
+    "Campaign": "",
+    "Alert Type": "Insight",
+    "Queue Name": "Insight 1 Sale",
+    "Queue Size": "2020",
+    "Queue Time": "40:20",
+    "Key": ""
+  },
+  {
+    "Campaign": "Badger",
+    "Alert Type": "Insight",
+    "Queue Name": "Insight 1 Sale",
+    "Queue Size": "2020",
+    "Queue Time": "40:20",
+    "Key": null
+  },
+  {
+    "Campaign": "Badger",
+    "Alert Type": "Insight",
+    "Queue Name": "Insight 1 Sale",
+    "Queue Size": "2020",
+    "Queue Time": "40:20",
+    "Key": ""
+  },
+  {
+    "Campaign": "OP",
+    "Alert Type": "Insight",
+    "Queue Name": "Insight 1 Sale",
+    "Queue Size": "2020",
+    "Queue Time": "40:20",
+    "Key": "Insight moderation Sale 40:20"
+  },
+  {
+    "Campaign": "DEMO",
+    "Alert Type": "Insight",
+    "Queue Name": "Insight 1 Sale",
+    "Queue Size": "2020",
+    "Queue Time": "40:20",
+    "Key": "Insight moderation Sale 40:20"
+  }
+]
